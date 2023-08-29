@@ -1,0 +1,20 @@
+{
+    "name": "andrew/php-prometheus-client",
+    "autoload": {
+        "psr-4": {
+            "Andrew\\PhpPrometheusClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andrew",
+            "email": "and.ivchenkov@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "vimeo/psalm": "^5.15"
+    },
+    "require": {
+        "zlodes/prometheus-client": "^1.1"
+    }
+}
