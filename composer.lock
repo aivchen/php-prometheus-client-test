@@ -116,16 +116,16 @@
         },
         {
             "name": "zlodes/prometheus-client",
-            "version": "1.1.4",
+            "version": "1.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zlodes/php-prometheus-client.git",
-                "reference": "90b0cd5df7fa6bb84072baf37fbccba09206376e"
+                "reference": "79c0846e6206b5a1b4c9aec32e32a07941e68f6a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zlodes/php-prometheus-client/zipball/90b0cd5df7fa6bb84072baf37fbccba09206376e",
-                "reference": "90b0cd5df7fa6bb84072baf37fbccba09206376e",
+                "url": "https://api.github.com/repos/zlodes/php-prometheus-client/zipball/79c0846e6206b5a1b4c9aec32e32a07941e68f6a",
+                "reference": "79c0846e6206b5a1b4c9aec32e32a07941e68f6a",
                 "shasum": ""
             },
             "require": {
@@ -167,9 +167,9 @@
             "description": "The Prometheus Metrics client for PHP",
             "support": {
                 "issues": "https://github.com/zlodes/php-prometheus-client/issues",
-                "source": "https://github.com/zlodes/php-prometheus-client/tree/1.1.4"
+                "source": "https://github.com/zlodes/php-prometheus-client/tree/1.1.6"
             },
-            "time": "2023-08-25T23:02:46+00:00"
+            "time": "2023-08-29T17:50:18+00:00"
         }
     ],
     "packages-dev": [
